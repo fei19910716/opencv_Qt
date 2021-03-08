@@ -1,0 +1,4 @@
+/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/opencv_Qt.dir
+/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/opencv_Qt_autogen.dir

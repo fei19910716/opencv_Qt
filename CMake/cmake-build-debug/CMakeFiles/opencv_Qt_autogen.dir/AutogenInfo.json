@@ -1,0 +1,112 @@
+{
+	"BUILD_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/opencv_Qt_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake",
+	"HEADERS" : 
+	[
+		[
+			"/Users/fordchen/CLionProjects/opencv_Qt/CMake/src/UI/cmainwindow.h",
+			"MU",
+			"WAYUIA5GRM/moc_cmainwindow.cpp"
+		],
+		[
+			"/Users/fordchen/CLionProjects/opencv_Qt/CMake/src/log/LogManager.h",
+			"MU",
+			"HK7XTS4GQ4/moc_LogManager.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/opencv_Qt_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/opencv_Qt_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"CERES_FOUND",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_OPENGL_LIB",
+		"QT_QML_LIB",
+		"QT_QUICKCONTROLS2_LIB",
+		"QT_QUICK_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/include",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/3rdParty/log4qt/include",
+		"/usr/local/Cellar/opencv/4.5.1_2/include/opencv4",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtCore.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtCore.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/mkspecs/macx-clang",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtWidgets.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtGui.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtOpenGL.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtOpenGL.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQml.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQml.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtNetwork.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtNetwork.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQuick.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQuick.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQuickControls2.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtQuickControls2.framework/Headers",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtSvg.framework",
+		"/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/lib/QtSvg.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/opencv_Qt_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/opencv_Qt_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/Qt/5.13.0/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/Users/fordchen/CLionProjects/opencv_Qt/CMake/cmake-build-debug/CMakeFiles/opencv_Qt_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/Users/fordchen/CLionProjects/opencv_Qt/CMake/main.cpp", "MU" ],
+		[
+			"/Users/fordchen/CLionProjects/opencv_Qt/CMake/src/UI/cmainwindow.cpp",
+			"MU"
+		],
+		[
+			"/Users/fordchen/CLionProjects/opencv_Qt/CMake/src/log/LogManager.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
